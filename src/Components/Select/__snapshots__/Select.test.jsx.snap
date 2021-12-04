@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render a Select component 1`] = `
+<div>
+  <label>
+    bob
+    <select>
+      <option
+        value="1"
+      >
+        1
+      </option>
+      <option
+        value="2"
+      >
+        2
+      </option>
+    </select>
+  </label>
+</div>
+`;
