@@ -1,0 +1,205 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render multiple pokemon 1`] = `
+<div>
+  <div
+    class="gallery"
+  >
+    <div
+      class="cardBorder"
+    >
+      <div
+        class="pokeItem cloudBG fighting"
+      >
+        <div
+          class="topInfo"
+        >
+          <span
+            class="name"
+          >
+            Primeape 
+          </span>
+          <span
+            class="hp"
+          >
+            65HP
+          </span>
+        </div>
+        <div
+          class="imageBorder"
+        >
+          <div
+            class="imageBG"
+          >
+            <img
+              alt="primeape"
+              class="pokeImage"
+              src="http://assets.pokemon.com/assets/cms2/img/pokedex/full/057.png"
+            />
+          </div>
+        </div>
+        <div
+          class="bottomInfo"
+        >
+          Fighting 
+           Pokemon. Length 
+          10
+          , Weight: 
+          320
+           lbs.
+        </div>
+        <ul
+          class="infoList"
+        >
+          <li>
+            Type: 
+            Fighting 
+          </li>
+          <li>
+            Speed: 
+            95
+          </li>
+          <li>
+            Ability 1: 
+            Vital Spirit 
+          </li>
+          <li>
+            Base Pokemon: 
+            Primeape 
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div
+      class="cardBorder"
+    >
+      <div
+        class="pokeItem cloudBG water"
+      >
+        <div
+          class="topInfo"
+        >
+          <span
+            class="name"
+          >
+            Poliwhirl 
+          </span>
+          <span
+            class="hp"
+          >
+            65HP
+          </span>
+        </div>
+        <div
+          class="imageBorder"
+        >
+          <div
+            class="imageBG"
+          >
+            <img
+              alt="poliwhirl"
+              class="pokeImage"
+              src="http://assets.pokemon.com/assets/cms2/img/pokedex/full/061.png"
+            />
+          </div>
+        </div>
+        <div
+          class="bottomInfo"
+        >
+          Water 
+           Pokemon. Length 
+          10
+          , Weight: 
+          200
+           lbs.
+        </div>
+        <ul
+          class="infoList"
+        >
+          <li>
+            Type: 
+            Water 
+          </li>
+          <li>
+            Speed: 
+            90
+          </li>
+          <li>
+            Ability 1: 
+            Water Absorb 
+          </li>
+          <li>
+            Base Pokemon: 
+            Poliwhirl 
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div
+      class="cardBorder"
+    >
+      <div
+        class="pokeItem cloudBG psychic"
+      >
+        <div
+          class="topInfo"
+        >
+          <span
+            class="name"
+          >
+            Abra 
+          </span>
+          <span
+            class="hp"
+          >
+            25HP
+          </span>
+        </div>
+        <div
+          class="imageBorder"
+        >
+          <div
+            class="imageBG"
+          >
+            <img
+              alt="abra"
+              class="pokeImage"
+              src="http://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png"
+            />
+          </div>
+        </div>
+        <div
+          class="bottomInfo"
+        >
+          Psychic 
+           Pokemon. Length 
+          9
+          , Weight: 
+          195
+           lbs.
+        </div>
+        <ul
+          class="infoList"
+        >
+          <li>
+            Type: 
+            Psychic 
+          </li>
+          <li>
+            Speed: 
+            90
+          </li>
+          <li>
+            Ability 1: 
+            Synchronize 
+          </li>
+          <li>
+            Base Pokemon: 
+            Abra 
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+`;

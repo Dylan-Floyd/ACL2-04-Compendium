@@ -1,0 +1,7 @@
+.search-div {
+  display: inline-block;
+}
+
+.search-div > label > * {
+  margin: 0px 2px;
+}

@@ -1,0 +1,29 @@
+.compendium {
+  text-align: center;
+}
+
+.header {
+  border-bottom: 1px solid black;
+  background-color: rgb(255, 217, 1);
+  padding: 5px;
+}
+
+.header > *{
+  margin: 5px;
+}
+
+.header > h2 {
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+.inputs {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.inputs > * {
+  margin: 5px;
+}

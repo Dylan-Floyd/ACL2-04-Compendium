@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render a pokemon 1`] = `
+<div>
+  <div
+    class="cardBorder"
+  >
+    <div
+      class="pokeItem cloudBG grass"
+    >
+      <div
+        class="topInfo"
+      >
+        <span
+          class="name"
+        >
+          Bob 
+        </span>
+        <span
+          class="hp"
+        >
+          3HP
+        </span>
+      </div>
+      <div
+        class="imageBorder"
+      >
+        <div
+          class="imageBG"
+        >
+          <img
+            alt="bob"
+            class="pokeImage"
+            src="wow"
+          />
+        </div>
+      </div>
+      <div
+        class="bottomInfo"
+      >
+        Grass 
+         Pokemon. Length 
+        3
+        , Weight: 
+        3
+         lbs.
+      </div>
+      <ul
+        class="infoList"
+      >
+        <li>
+          Type: 
+          Grass 
+        </li>
+        <li>
+          Speed: 
+          3
+        </li>
+        <li>
+          Ability 1: 
+          Wilson Wow 
+        </li>
+        <li>
+          Base Pokemon: 
+          Asdf 
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+`;
